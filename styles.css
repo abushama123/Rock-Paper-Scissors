@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: #201B33;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color:#F4D966;
+}
+p{
+    color: white;
+} 
+div{
+    color: white;
+}
+button{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    padding: 10px 24px;
+    background-color: #F4D966;
+    border-radius: 5px;
+}
+.message{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.resultMessage{
+    margin-top: 1rem;
+    font-size: 5rem;
+    color: #E0970C;
+}
